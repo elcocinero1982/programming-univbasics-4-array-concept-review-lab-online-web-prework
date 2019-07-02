@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
  each do |i|
    return true if i == element
  end
- 
+ end
 end
 
 def find_max_value(array)
