@@ -4,7 +4,7 @@ length.times do [index]
 puts array[index]
 end
 end 
-end
+
 def find_max_value(array)
 array.max
 end
